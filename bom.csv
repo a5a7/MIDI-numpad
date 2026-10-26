@@ -1,4 +1,4 @@
-Name,Quantity,Total Price,Link
+Name,Quantity,Unit,Link
 Custom PCB,1,$8.90,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
 Waveshare ESP32-S3-Zero,1,$6.62,https://www.aliexpress.com/item/1005007004089798.html?src=google&gatewayAdapt=4itemAdapt
 Bourns Potentiometer PTA1543,1,$1.84,https://www.digikey.com/en/products/detail/bourns-inc/PTA1543-2010CIB103/3781161

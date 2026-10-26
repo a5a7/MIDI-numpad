@@ -13,3 +13,7 @@ The routing went much better compared to last time. I actually finally understoo
 ![Image of routing for final board](images/image-17.png)
 
 The schematic and PCB are all in this repository. 
+
+## Firmware
+
+Located in the firmware/sketch. It's currently a testing script to play a sound on loop, once I get the physical board I will implement it fully because I have no idea if this will actually work, and I'd prefer to use a physical board to see live what happens with the code. 
