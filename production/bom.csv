@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,Library,1,Conn_01x11,
+RV1,Potentiometer_Bourns_PTA1543_Single_Slide,1,R_Potentiometer_MountingPin,
+SW1,Kailh Choc Low-Profile Switches,1,SW_Push,
+SW2,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch_MP,
+U1,Waveshare ESP32-S3-Zero,1,Waveshare ESP32-S3-ZERO,
